@@ -20,7 +20,6 @@ sqe-library-management/
 ├── src/
 ├── tests/
 ├── docs/
-├── screenshots/
 ├── .github/
 │   └── workflows/
 │
