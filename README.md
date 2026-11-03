@@ -40,7 +40,7 @@ The objective of this project is to practice software quality activities within 
 ---
 ## 👨‍💻 Author
 
-**Talha Irfan**
+**Abdul Baseer**
 
 BS Software Engineering
 Sukkur IBA University

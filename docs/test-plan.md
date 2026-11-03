@@ -141,5 +141,5 @@ If a test fails, a GitHub issue will be created to record the defect.
 
 | Role | Name | Status |
 |---|---|---|
-| Student | Talha Irfan | Prepared |
+| Student | Abdul Baseer | Prepared |
 | Instructor | Dr. Khursheed Ali | Pending |
